@@ -1,0 +1,5 @@
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\27.05\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.csprojAssemblyReference.cache
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\27.05\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\27.05\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.AssemblyInfoInputs.cache
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\27.05\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.AssemblyInfo.cs
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\27.05\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.csproj.CoreCompileInputs.cache
