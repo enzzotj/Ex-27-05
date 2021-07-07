@@ -13,6 +13,7 @@ namespace Maquina_Cafe
 
             bool cafeteiraLigada = true;
 
+
             do
             {
                 Console.WriteLine(@"
